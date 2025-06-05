@@ -24,7 +24,7 @@ Each folder corresponds to a major topic or chapter in the book. Within each fol
 
 ```
 problem-sets/
-├── 01_basic-counting/
+├── 01_probability_and_counting/
 │   ├── README.md
 │   ├── permutations-combinations.md
 │   ├── inclusion-exclusion.md
