@@ -24,18 +24,18 @@ Each folder corresponds to a major topic or chapter in the book. Within each fol
 
 ```
 problem-sets/
+├── 00_prerequisite/
 ├── 01_probability_and_counting/
-│   ├── README.md
-│   ├── permutations-combinations.md
-│   ├── inclusion-exclusion.md
+│   ├── problem_01.ipynb
+│   ├── problem_02.ipynb
 │   └── ...
 ├── 02_conditional-probability/
-│   ├── total-probability.md
-│   ├── bayes-rule.md
+│   ├── problem_01.ipynb
+│   ├── problem_02.ipynb
 │   └── ...
 ├── 03_random-variables/
 ├── 04_expectation/
-├── 05_distributions/
+├── 05_continous_random_variables/
 ├── ...
 └── README.md
 ```
